@@ -8,10 +8,11 @@ There are several operations but the simplified complexity is O(n) since the tim
 
 b)
 O(Log N)
-there are two nested loops but the inner loop's variable is increased exponentially by a constant amount.
+There are two nested loops but the inner loop's variable is increased exponentially by a constant amount.
 
 c)
-
+O(N)
+There is one loop that happens recursively and ends when the length reaches 0.
 ## Exercise II
 
 
